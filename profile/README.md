@@ -25,7 +25,7 @@ Create a service that allows users to exchange goods and services within their l
 
 2) User: A user is anyone that has signed into the application. A user has a profile page, which shows his reviews, likes and listings. A user can have friends, other users on the app.
 
-3) Likes: A user can like a listing to either save the listing for later, or 
+3) Likes: A user can like a listing to either save the listing for later, or to improve their SCROLL page algorithm. Likes do not have any impact on the actual listing.
 
 4) Broadcast: A user can broadcast a message to his friends. This will allow one user to send a mesage to all of his friends. 
 
